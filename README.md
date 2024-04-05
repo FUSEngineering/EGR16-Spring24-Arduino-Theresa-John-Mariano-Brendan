@@ -2,6 +2,7 @@
 Repository with documentation and MATLAB code for the Arduino drawing robot.
 
 Team Members: Jonathon Overbee, Mariano Soares, Theresa Tine, Brendan O'Neill
+
 Meetings: Class time, Tuesdays at 3:45pm in STJS
 
 ## Deliverables
