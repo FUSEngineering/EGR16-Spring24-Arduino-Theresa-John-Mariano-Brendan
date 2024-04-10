@@ -2,7 +2,6 @@
 Repository with documentation and MATLAB code for the Arduino drawing robot.
 
 Team Members: Jonathon Overbee, Mariano Soares, Theresa Tine, Brendan O'Neill
-
 Meetings: Class time, Tuesdays at 3:45pm in STJS
 
 ## Deliverables
@@ -14,6 +13,22 @@ Meetings: Class time, Tuesdays at 3:45pm in STJS
     - Attach a copy of the technical notes recorded by each member as an appendix. SHOULD include (in own words): scan of handwritten/typed notes with descriptions of key components of the kit and topics reviewed in the lessons.
 
 ## Meeting Notes
+### Meeting 2 ——— Wed. 04/10 at 12:00PM
+
+ACTIVITIES:
+- Theresa shared an MS Word document for the memorandum. Team members collaborated to complete the document.
+- Mariano successfully interfaced with and setup the NANO 33 IoT board. 
+
+NOTES: 
+- The team chose not to meet Tues. 04/12.
+- Brendan will submit the memo on Friday before it is due.
+
+TO-DO:
+- Finish reading through Lesson 2 and take notes.
+- Read through Lesson 3.
+
+——— END MEETING ———
+
 ### Meeting 1 ——— Fri. 04/05 at 12:00PM
 
 ACTIVITIES:
@@ -24,7 +39,7 @@ ACTIVITIES:
 NOTES: 
 - The team decided against using Simulink or the Arduino IDE.
 
-TODO:
+TO-DO:
 - Finish configuring MATLAB using steps in Lesson 01.
 - Read through Lesson 02 and take detailed notes.
 
