@@ -24,7 +24,7 @@ NOTES:
 - Brendan will submit the memo on Friday before it is due.
 
 TO-DO:
-- Finish reading through Lesson 2 and take notes.
+- Send Brendan notes on Lesson 02 by Fri. 04/12 at 10:00AM.
 - Read through Lesson 3.
 
 ——— END MEETING ———
