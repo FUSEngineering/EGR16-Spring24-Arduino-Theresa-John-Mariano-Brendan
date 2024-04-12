@@ -5,7 +5,7 @@ Team Members: Jonathon Overbee, Mariano Soares, Theresa Tine, Brendan O'Neill
 Meetings: Class time, Tuesdays at 3:45pm in STJS
 
 ## Deliverables
-1) Introductory Memo ——— DUE: 12:00PM on FRIDAY 04/12/2024 via GRADESCOPE
+1) Introductory Memo ——— SUBMITTED 10:49AM on FRIDAY 04/12/2024 via GRADESCOPE
     - Written as a team, addressed to Dr. Greenly    
     - Include comments on group's intended meeting times and schedule expectations.
     - State the steps you will take if technical or interpersonal struggles arise.
@@ -13,6 +13,20 @@ Meetings: Class time, Tuesdays at 3:45pm in STJS
     - Attach a copy of the technical notes recorded by each member as an appendix. SHOULD include (in own words): scan of handwritten/typed notes with descriptions of key components of the kit and topics reviewed in the lessons.
 
 ## Meeting Notes
+### Meeting 2 ——— Wed. 04/10 at 12:00PM
+
+ACTIVITIES:
+- Started building the robot.
+
+NOTES: 
+- The memo was submitted. Group members were added for team submission.
+- We had to replace one of the motors because the green wire was disconnected.
+
+TO-DO:
+- Finish building the robot (Video: 2:50)
+
+——— END MEETING ———
+
 ### Meeting 2 ——— Wed. 04/10 at 12:00PM
 
 ACTIVITIES:
