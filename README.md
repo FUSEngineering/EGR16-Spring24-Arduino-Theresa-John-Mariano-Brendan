@@ -13,7 +13,7 @@ Meetings: Class time, Tuesdays at 3:45pm in STJS
     - Attach a copy of the technical notes recorded by each member as an appendix. SHOULD include (in own words): scan of handwritten/typed notes with descriptions of key components of the kit and topics reviewed in the lessons.
 
 ## Meeting Notes
-### Meeting 2 ——— Wed. 04/10 at 12:00PM
+### Meeting 3 ——— Fri. 04/12 at 12:00PM
 
 ACTIVITIES:
 - Started building the robot.
