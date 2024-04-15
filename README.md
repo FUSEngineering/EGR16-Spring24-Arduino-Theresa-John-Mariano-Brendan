@@ -13,6 +13,21 @@ Meetings: Class time, Tuesdays at 3:45pm in STJS
     - Attach a copy of the technical notes recorded by each member as an appendix. SHOULD include (in own words): scan of handwritten/typed notes with descriptions of key components of the kit and topics reviewed in the lessons.
 
 ## Meeting Notes
+### Meeting 4 ——— Mon. 04/15 at 12:00PM
+
+ACTIVITIES:
+- Finished constructing the robot.
+- Mariano began testing the servo using MATLAB.
+
+NOTES: 
+- QUEST on 04/22. Checkout the learning objectives in the CIS.
+- We ARE planning to meet tomorrow at 3:45 in STJS.
+
+TO-DO:
+- Keep testing the robot's components, and prepare to actually program it.
+
+——— END MEETING ———
+
 ### Meeting 3 ——— Fri. 04/12 at 12:00PM
 
 ACTIVITIES:
