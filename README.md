@@ -12,7 +12,63 @@ Meetings: Class time, Tuesdays at 3:45pm in STJS
     - List questions encountered in the setup phase of the project.
     - Attach a copy of the technical notes recorded by each member as an appendix. SHOULD include (in own words): scan of handwritten/typed notes with descriptions of key components of the kit and topics reviewed in the lessons.
 
+2) Final Memo ——— DUE
+
 ## Meeting Notes
+
+### Meeting 8 ——— Mon. 04/22 at 12:00PM
+
+ACTIVITIES:
+- QUEST
+- Debugged issue with clearing robot.
+
+NOTES: 
+- We tried to use the magnet and ran into the issue of the arms not moving and the magnet erasing the drawn line.
+
+TO-DO:
+- Task 4 and move on quickly!
+
+——— END MEETING ———
+
+### Meeting 7 ——— Mon. 04/19 at 12:00PM
+
+ACTIVITIES:
+- Working through task 3. Came across an error where it will no longer fully clear the robot, even if the workspace appears clear.
+
+NOTES: 
+- Task 2 no longer works either.
+
+TO-DO:
+- Debug issue.
+
+——— END MEETING ———
+
+### Meeting 6 ——— Mon. 04/17 at 12:00PM
+
+ACTIVITIES:
+- Debugged the issue with Task 2. Had to cause a wait period to give motors time to respond.
+
+NOTES: 
+- Working on Task 2, working up to 3.
+
+TO-DO:
+- Task 3.
+
+——— END MEETING ———
+
+### Meeting 5 ——— Mon. 04/16 at 12:00PM
+
+ACTIVITIES:
+- Working through Lesson 4. Started testing the DC motor but ran into an issue.
+
+NOTES: 
+- Issue was that when one line was commented the DC motors would not turn properly.
+
+TO-DO:
+- Debug the issue.
+
+——— END MEETING ———
+
 ### Meeting 4 ——— Mon. 04/15 at 12:00PM
 
 ACTIVITIES:
