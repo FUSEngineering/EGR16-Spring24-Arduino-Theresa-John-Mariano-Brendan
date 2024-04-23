@@ -12,9 +12,24 @@ Meetings: Class time, Tuesdays at 3:45pm in STJS
     - List questions encountered in the setup phase of the project.
     - Attach a copy of the technical notes recorded by each member as an appendix. SHOULD include (in own words): scan of handwritten/typed notes with descriptions of key components of the kit and topics reviewed in the lessons.
 
-2) Final Memo ——— DUE
+2) Final Memo ——— DUE 'END OF DAY' on WEDNESDAY 05/01/2024 via GRADESCOPE 
+    - Document success of section 4.7 
 
 ## Meeting Notes
+
+### Meeting 9 ——— Tue. 04/23 at 3:45PM
+
+ACTIVITIES:
+- Completed Task 4
+
+NOTES: 
+- For Task 4 we did not find the actual mass of the robot; we assumed it was 0.25 kg.
+- We discovered that our motor is defective (green wire is disconnected)
+
+TO-DO:
+- Debug Task 5 error with MATLAB
+
+——— END MEETING ———
 
 ### Meeting 8 ——— Mon. 04/22 at 12:00PM
 
