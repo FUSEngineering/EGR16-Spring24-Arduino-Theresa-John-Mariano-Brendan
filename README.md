@@ -144,3 +144,5 @@ TO-DO:
 - Read through Lesson 02 and take detailed notes.
 
 ——— END MEETING ———
+
+Hello....
